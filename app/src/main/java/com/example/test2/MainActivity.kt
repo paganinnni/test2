@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    Greeting("Android Project 1 Commit 1")
+                    Greeting("Android Project 1 Commit 1 Camera Created")
                 }
             }
         }
